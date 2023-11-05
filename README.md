@@ -12,14 +12,13 @@ Title element is concise and descriptive
 
 **CHANGES MADE:**
 Edits to style and classes
+Put in an improved website title
+Refactored HTML with semantic elements
+Edited broken internal links to improve operation
+Edited CSS to be compatible with properties and selectors
+Removed unnecessary CSS classes
+Changed the CSS order to be compatible with HTML structure
 
-
-
-
-
-
-
-
-
-
-
+**SOURCES**
+urban-octo-telegram for starter code
+miscellaneous information gathered from various sites Google.com
