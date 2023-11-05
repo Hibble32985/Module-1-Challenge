@@ -10,6 +10,8 @@ Viewed images elements have accessible alt attributes within
 Heading attributes fall into a sequential order
 Title element is concise and descriptive
 
+**CHANGES MADE:**
+Edits to style and classes
 
 
 
